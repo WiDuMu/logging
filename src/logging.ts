@@ -16,7 +16,7 @@ type DirOptions = {
 }
 
 /** 
- * A simple logging class that can be enabled or disabled at will based on the console class.
+ * A simple logging class that can be enabled or disabled at will, based on the console class.
  * @author William Murphy
  */
 export default class logging {
