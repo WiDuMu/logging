@@ -1,6 +1,7 @@
 /**
  * Object configuration for logging.dir().
  * @typedef DirOptions
+ * @type {Object}
  * @member {boolean} colors - Whether to style the properties of an object according to type. Defaults to `true`.
  * @member {number} depth - Depth of properties to log. Defaults to `2`.
  * @memeber {boolean} showHidden - Show hidden, non-enumarable, and symbol properties. Defaults to `false`
