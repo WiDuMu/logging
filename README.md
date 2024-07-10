@@ -2,7 +2,7 @@
 
 A simple re-export of the JavaScript `console` class, which only runs if you set `logging.enabled = true`.
 
-I use this for certain projects to toggle logging.
+I use this for certain projects to toggle logging. It makes it easy to disable or renable my code's logging features when hunting bugs.
 
 ## Example
 
